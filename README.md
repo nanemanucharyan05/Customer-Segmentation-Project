@@ -1,7 +1,8 @@
 # Customer-Segmentation-Project
 Customer Segmentation Using RFM Analysis
 
-**Project:** Customer Segmentation
+**Project:** Customer 
+
 **Author:** Nane Manucharyan
 
 _Project Objective_
